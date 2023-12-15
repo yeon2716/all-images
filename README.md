@@ -22,3 +22,8 @@ console.log(imageUrls.join('\n'));
 # var har = 위에 복사한 내용을 붙여넣는다  (그 값은 객채이다)
 
 # 객채가 har이라는 변수에 할당되었고 그 아래에 download.js 안에 내용을 복사하여 console 붙여 넣으면 전체 이미지 주소가 일괄적으로 나타난다.
+
+
+
+![image](https://github.com/yeon2716/all-images/assets/145514579/571942ab-680f-472e-b541-5cd50c016694)
+
