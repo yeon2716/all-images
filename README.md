@@ -27,3 +27,8 @@ console.log(imageUrls.join('\n'));
 
 ![image](https://github.com/yeon2716/all-images/assets/145514579/571942ab-680f-472e-b541-5cd50c016694)
 
+
+
+# 완성된 화면
+![image](https://github.com/yeon2716/all-images/assets/145514579/4996c7a9-dead-4e6a-a4fb-3a08e2da7acf)
+
