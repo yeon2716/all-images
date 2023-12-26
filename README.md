@@ -29,6 +29,14 @@ console.log(imageUrls.join('\n'));
 
 
 
+var imageUrls = [];
+har.log.entries.forEach(function (entry) {
+  if (entry.response.content.mimeType.indexOf("image/") !== 0) return;
+  imageUrls.push(entry.request.url);
+});
+console.log(imageUrls.join('\n'));
+
+
 # 완성된 화면
 ![image](https://github.com/yeon2716/all-images/assets/145514579/4996c7a9-dead-4e6a-a4fb-3a08e2da7acf)
 
