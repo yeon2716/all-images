@@ -18,7 +18,6 @@ console.log(imageUrls.join('\n'));
 
 
 
-#----> START !!!
 
 
 # console창에 var har = 입력
