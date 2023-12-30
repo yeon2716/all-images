@@ -19,7 +19,7 @@ console.log(imageUrls.join('\n'));
 
 
 
-
+# cnsole 창에 allow pasting 입력
 # console창에 var har = 입력
 
 # var har = 뒤에 복사한 내용을 붙여넣는다  (그 값은 객채이다)
