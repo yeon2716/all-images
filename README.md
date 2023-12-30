@@ -17,6 +17,10 @@ console.log(imageUrls.join('\n'));
 ![image](https://github.com/yeon2716/all-images/assets/145514579/cd675cd5-f3d1-447c-8bc9-a898b969e74f)
 
 
+
+#----> START !!!
+
+
 # console창에 var har = 입력
 
 # var har = 뒤에 복사한 내용을 붙여넣는다  (그 값은 객채이다)
